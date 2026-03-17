@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋 I'm Cici Tang
 
 Computer Science & Cognitive Science student at Johns Hopkins University.
